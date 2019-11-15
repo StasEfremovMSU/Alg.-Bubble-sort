@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1481551466 source:c:\users\user\documents\программирование\вторая попытка\пузырёк_part_1\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<fstream>
+	<vector>
+	<algorithm>
+
